@@ -1,3 +1,5 @@
+CREATED THIS WONDERFUL PROJECT WITH MY FELLOW M. FAIZAN ANWAR
+
 🌟 Study Partner: Zenbud, Your Ultimate Academic Companion 📚
 
 Study Partner is a Flutter-based mobile app designed to revolutionize student life. With powerful features, it helps you stay organized, focused, and productive.
